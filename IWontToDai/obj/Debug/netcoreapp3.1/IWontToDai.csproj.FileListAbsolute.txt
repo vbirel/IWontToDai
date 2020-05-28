@@ -1,0 +1,13 @@
+C:\Users\vbirel\source\repos\IWontToDai\bin\Debug\netcoreapp3.1\IWontToDai.exe
+C:\Users\vbirel\source\repos\IWontToDai\bin\Debug\netcoreapp3.1\IWontToDai.deps.json
+C:\Users\vbirel\source\repos\IWontToDai\bin\Debug\netcoreapp3.1\IWontToDai.runtimeconfig.json
+C:\Users\vbirel\source\repos\IWontToDai\bin\Debug\netcoreapp3.1\IWontToDai.runtimeconfig.dev.json
+C:\Users\vbirel\source\repos\IWontToDai\bin\Debug\netcoreapp3.1\IWontToDai.dll
+C:\Users\vbirel\source\repos\IWontToDai\bin\Debug\netcoreapp3.1\IWontToDai.pdb
+C:\Users\vbirel\source\repos\IWontToDai\obj\Debug\netcoreapp3.1\IWontToDai.csprojAssemblyReference.cache
+C:\Users\vbirel\source\repos\IWontToDai\obj\Debug\netcoreapp3.1\IWontToDai.csproj.CoreCompileInputs.cache
+C:\Users\vbirel\source\repos\IWontToDai\obj\Debug\netcoreapp3.1\IWontToDai.AssemblyInfoInputs.cache
+C:\Users\vbirel\source\repos\IWontToDai\obj\Debug\netcoreapp3.1\IWontToDai.AssemblyInfo.cs
+C:\Users\vbirel\source\repos\IWontToDai\obj\Debug\netcoreapp3.1\IWontToDai.dll
+C:\Users\vbirel\source\repos\IWontToDai\obj\Debug\netcoreapp3.1\IWontToDai.pdb
+C:\Users\vbirel\source\repos\IWontToDai\obj\Debug\netcoreapp3.1\IWontToDai.genruntimeconfig.cache
